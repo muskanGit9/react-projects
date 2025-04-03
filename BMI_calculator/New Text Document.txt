@@ -1,1 +1,1 @@
-BMI calculator
+This will install the latest version globally on your system. After updating, you can create a new React project with the latest version.
