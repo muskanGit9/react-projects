@@ -2,6 +2,6 @@ How to Build A BMI Calculator in React JS with useState Hook & Conditionals
 
 
 Steps -
-<b>npm install -g create-react-app@latest</b>
+npm install -g create-react-app@latest
 This will install the latest version globally on your system. After updating, you can create a new React project with the latest version.
 
